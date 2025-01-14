@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagun Kumar Behera</h1>
 <h3 align="center">🎓 Second-Year Student at SRM University (CSE - SE) | 5⭐ in HackerRank | 👨‍💻 Active on CodeChef | 🚀 Aspiring Software Developer</h3>
 
-- 🌱 **Alongside my 5-star ratings in C, C++, and Python on HackerRank, I'm currently diving into frameworks and expanding my skill set with courses like Android App Development (completed my first app project, 'FarmProduct') and programming concepts in C and C++! 🚀 Always eager to learn and create. 💻✨**
+- 🌱 **Alongside my 5-star ratings in C, C++, and Python on HackerRank, I'm currently diving into frameworks and expanding my skill set with courses like Android App Development (completed my first app, 'FarmProduct') and advanced programming in C and C++! 🚀 Always eager to learn and create. 💻✨**
 
 - 👨‍💻My Portfolio: [https://sagun-kumar-portfolio.vercel.app](https://sagun-kumar-portfolio.vercel.app)
 
@@ -11,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@sagunsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sagunsb" height="30" width="40" /></a>
+<a href="https://dev.to/sagunsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sagunsb" height="30" width="40" /></a>
 <a href="https://twitter.com/sagunsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagunsb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sagun-kumar-behera-566b34277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagun-kumar-behera-566b34277" height="30" width="40" /></a>
 <a href="https://fb.com/sagun.behera.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagun.behera.1" height="30" width="40" /></a>
 <a href="https://instagram.com/sagun_sb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagun_sb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sagunkumarbehera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sagunkumarbehera" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sagunkumarbehera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagunkumarbehera" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sagun_behera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagun_behera" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sagunskb2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagunskb2005" height="30" width="40" /></a>
 </p>
