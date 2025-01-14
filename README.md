@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagun Kumar Behera</h1>
 <h3 align="center">🎓 Second-Year Student at SRM University (CSE - SE) | 5⭐ in HackerRank | 👨‍💻 Active on CodeChef | 🚀 Aspiring Software Developer</h3>
 
-- 🌱 I’m currently learning **Alongside my 5-star ratings in C, C++, and Python on HackerRank, I'm currently diving into frameworks and expanding my skill set with courses like Android App Development (completed my first app, 'FarmProduct') and advanced programming in C and C++! 🚀 Always eager to learn and create. 💻✨**
+- 🌱 **Alongside my 5-star ratings in C, C++, and Python on HackerRank, I'm currently diving into frameworks and expanding my skill set with courses like Android App Development (completed my first app, 'FarmProduct') and advanced programming in C and C++! 🚀 Always eager to learn and create. 💻✨**
 
 - 👨‍💻My Portfolio: [https://sagun-kumar-portfolio.vercel.app](https://sagun-kumar-portfolio.vercel.app)
 
