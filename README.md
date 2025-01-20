@@ -5,7 +5,7 @@
 
 - 👨‍💻My Portfolio: [https://sagun-kumar-portfolio.vercel.app](https://sagun-kumar-portfolio.vercel.app)
 
-- 📫 How to reach me **sagunskb2005@gmail.com**
+- 📫 How to reach me **sagunsbehera@gmail.com**
 
 - ⚡ Fun fact: **I hold 5-star ratings in C, C++, and Python on HackerRank, and I've aced several programming tests, including scoring 100% on an Operating Systems skill test and 2800/3100 on the CodeChef Java Quiz! 🚀**
 
