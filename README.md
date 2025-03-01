@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagunsb&label=Profile%20views&color=0e75b6&style=flat" alt="sagunsb" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sagun-kumar-portfolio.vercel.app](https://sagun-kumar-portfolio.vercel.app)
+- 👨‍💻 My Portfolio: [https://sagun-kumar-portfolio.vercel.app](https://sagun-kumar-portfolio.vercel.app)
 
 - 📫 How to reach me **sagunsbehera@gmail.com**
 
