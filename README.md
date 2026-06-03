@@ -12,16 +12,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-// Linkedin
 <a href="https://linkedin.com/in/sagun-kumar-behera-566b34277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagun-kumar-behera-566b34277" height="30" width="40" /></a>
 
-// CodeChef
 <a href="https://www.codechef.com/users/sagun_behera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagun_behera" height="30" width="40" /></a>
 
-// LeetCode
 <a href="https://www.leetcode.com/sagun_s29b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagun_s29b" height="30" width="40" /></a>
 
-// GeeksforGeeks
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sagunsbjxjr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sagunsbjxjr/" height="30" width="40" /></a>
 </p>
 
