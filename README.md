@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagun Kumar Behera</h1>
-<h3 align="center">🎓 Final - Year Student at SRM University (CSE - Software Engineering) | 💼 Ex-Intern at Eastern Coalfield Limited | Management Member - GeeksforGeeks SRM | 5⭐ in HackerRank | 👨‍💻 Active on CodeChef | 🚀 Aspiring Software Developer</h3>
+<h3 align="center">🎓 Final - Year Student at SRM University (Computer Science and Engineering with specialization in Software Engineering) | 💼 Ex-Intern at Eastern Coalfield Limited | Management Member - GeeksforGeeks SRM | 5⭐ in HackerRank | 👨‍💻 Active on CodeChef | 🚀 Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagunsb&label=Profile%20views&color=0e75b6&style=flat" alt="sagunsb" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sagunsbehera@gmail.com**
 
-- ⚡ Fun fact **I hold 5-star ratings in C, C++, and Python on HackerRank, and I've aced several programming tests, including scoring 100% on an Operating Systems skill test and 2800/3100 on the CodeChef Java Quiz! 🚀**
+- ⚡AWS Certified Cloud Practitioner | 5⭐ in C, C++, and Python on HackerRank | ECL Intern | Building impactful software solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
