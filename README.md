@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagun Kumar Behera</h1>
-<h3 align="center">🎓 Final - Year Student at SRM University (Computer Science and Engineering with specialization in Software Engineering) | 💼 Ex-Intern at Eastern Coalfield Limited | Management Member - GeeksforGeeks SRM | 5⭐ in HackerRank | 👨‍💻 Active on CodeChef | 🚀 Aspiring Software Developer</h3>
+<h3 align="center">🎓 Final - Year Student at SRM University (Computer Science and Engineering with specialization in Software Engineering) | 💼 Ex-Intern at Eastern Coalfield Limited | Management Member - GeeksforGeeks SRMIST | 5⭐ in HackerRank | 👨‍💻 Active on CodeChef | 🚀 Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagunsb&label=Profile%20views&color=0e75b6&style=flat" alt="sagunsb" /> </p>
 
